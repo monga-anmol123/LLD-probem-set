@@ -1,0 +1,3 @@
+2026-01-12 13:43:33.132 [main] INFO com.example.MultiApp - This message goes to both console and file
+2026-01-12 13:43:41.375 [main] INFO com.example.MultiApp - This message goes to both console and file
+2026-01-21 04:49:18.895 [main] INFO com.example.MultiApp - This message goes to both console and file
